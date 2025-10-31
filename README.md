@@ -1,3 +1,8 @@
+<p algin="center">
+  <img src="Baner Github.png" alt="Banner" width="100%" />
+</p>
+
+
 ## Hola soy Raul de la Rosa 👋
 
 👨‍💻 Sobre mí
